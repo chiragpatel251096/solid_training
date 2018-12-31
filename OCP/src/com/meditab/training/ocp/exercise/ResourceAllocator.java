@@ -1,6 +1,6 @@
 package com.meditab.training.ocp.exercise;
 
-public class ResourceAllocator
+public class ResourceAllocator implements functions
 {
     private static final int INVALID_RESOURCE_ID = -1;
 

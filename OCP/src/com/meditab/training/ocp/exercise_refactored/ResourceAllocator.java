@@ -39,5 +39,29 @@ public class ResourceAllocator
         }
     }
 
+    private void markSpaceSlotFree(int resourceId)
+    {
+    }
 
+    private void markTimeSlotFree(int resourceId)
+    {
+    }
+
+    private void markSpaceSlotBusy(int resourceId)
+    {
+    }
+
+    private int findFreeSpaceSlot()
+    {
+        return 0;
+    }
+
+    private void markTimeSlotBusy(int resourceId)
+    {
+    }
+
+    private int findFreeTimeSlot()
+    {
+        return 0;
+    }
 }
